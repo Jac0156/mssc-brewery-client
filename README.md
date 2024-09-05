@@ -1,1 +1,3 @@
-# mssc-brewery-client
+# MSSC-Brewery-Client
+
+Consume Rest api
