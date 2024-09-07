@@ -1,5 +1,27 @@
-{"properties": [{
-  "name": "sfg.brewery.apihost",
-  "type": "java.lang.String",
-  "description": "A description for 'sfg.brewery.apihost'"
-}]}
+{"properties": [
+  {
+    "name": "sfg.brewery.apihost",
+    "type": "java.lang.String",
+    "description": "A description for 'sfg.brewery.apihost'"
+  },
+  {
+    "name": "sfg.defaultmaxperroute",
+    "type": "java.lang.String",
+    "description": "A description for 'sfg.defaultmaxperroute'"
+  },
+  {
+    "name": "sfq.maxtotalconnections",
+    "type": "java.lang.String",
+    "description": "A description for 'sfq.maxtotalconnections'"
+  },
+  {
+    "name": "sfg.sockettimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'sfg.sockettimeout'"
+  },
+  {
+    "name": "sfg.connectionrequesttimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'sfg.connectionrequesttimeout'"
+  }
+]}
